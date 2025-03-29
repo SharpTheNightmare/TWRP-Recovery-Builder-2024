@@ -24,7 +24,7 @@ on:
       DEVICE_PATH:
         description: 'Specify your Device Path' 
         required: true
-        default: 'device/asmsung/gts8pwifi'
+        default: 'device/samsung/gts8pwifi'
       DEVICE_NAME:
         description: 'Specify your Device Codename' 
         required: true
